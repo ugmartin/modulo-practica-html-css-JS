@@ -72,7 +72,7 @@ box-shadow:  0 0 20px 0 rgba(255, 255, 255, .3);
 .contact-form form button:focus {
     background: #d63031;
     color: #fff;
-    transition: 1s ease-out;
+    transition: 1s ease-in-out;
     outline: 0;
 }
 
